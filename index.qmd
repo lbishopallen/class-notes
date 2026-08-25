@@ -8,3 +8,23 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+Primarily learning to do regression analyses.
+Not as programmer-y as compling
+Nobody is naturally good or bad at R. It is a skill.
+"A talent is an applied interest." - Bob Ross
+
+install most recent version of R and RStudio
+
+## Before Stats
+  data visualization
+  data organization
+  data reshaping and transformation
+
+  this will be 3-4 weeks!
+
+## Stats
+  Stats is not a way of biforcating effects into true or false, good or bad. (thank goodness, cuz i think my last project may have a null result)
+  "The Golem of Prague" by Richard McElreath in Statistical Rethinking
+    -"many to many" relationships
+  
